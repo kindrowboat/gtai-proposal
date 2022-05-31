@@ -1,5 +1,5 @@
 title = "GTAI website proposal"
-baseURL = "gtai-proposal.kindrobot.ca"
+baseURL = "https://gtai-proposal.kindrobot.ca"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 # resourceDir = "../resources"
