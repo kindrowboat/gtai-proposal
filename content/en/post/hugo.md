@@ -4,7 +4,7 @@ featured_image: "/images/hugo-logo-wide.svg"
 title: "Hugo"
 ---
 
-Hugo is a static site generator that takes human readable text files and turns them into a beautiful website. Because Hugo sites are statically generated they:
+Hugo is a pretty good static site generator that takes human readable text files and turns them into a beautiful website. Because Hugo sites are statically generated they:
 
 * load quickly,
 * do not require patching or plugins,
